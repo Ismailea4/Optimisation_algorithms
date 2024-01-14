@@ -4,7 +4,7 @@ A package contain Algorithms to minimise functions (1D or multivariate) with Alg
 ## How to use :
 _After installing the package use following import :_ <br>
 
-For 1 dimensionel minimisation :
+For 1 dimensionel minimisation : <br>
 **from Optimisation_tools.minimisation_1D import 
   Unrestricted_fixed_Step,
   Unrestricted_accelerated_Step,
@@ -17,7 +17,7 @@ For 1 dimensionel minimisation :
   Quasi_Newton_1D,
   Secant_1D**
 
-For multivariate minimisation :
+For multivariate minimisation : <br>
 **from Optimisation_tools.multivariate_minimisation import
   Methode_Newton,
   Methode_Newton2,
@@ -25,7 +25,7 @@ For multivariate minimisation :
   descant_gradient,
   Conjugate_gradient**
 
-For Matrix decomposition and inverse :
+For Matrix decomposition and inverse : <br>
 **from Optimisation_tools.matrix_decomposition_inverse import
   decomp_LU,
   LU_inv,
@@ -33,7 +33,7 @@ For Matrix decomposition and inverse :
   Choleski_inv,
   Gauss_inv**
 
-For Search step :
+For Search step : <br>
 **from Optimisation_tools.step_search
   Armijo,
   Goldstein**
