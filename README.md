@@ -34,7 +34,7 @@ For Matrix decomposition and inverse : <br>
   Gauss_inv**
 
 For Search step : <br>
-**from Optimisation_tools.step_search
+**from Optimisation_tools.step_search import
   Armijo,
   Goldstein**
   
